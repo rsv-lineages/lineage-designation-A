@@ -5,3 +5,5 @@ Description of how to use the nomenclature and content of the reference alignmen
 Thanks for understanding.
 
 The RSV Genotyping Consensus Consortium.
+
+## [Summary of designated lineages](.auto-generated/clades.md)
