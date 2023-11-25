@@ -1,13 +1,12 @@
 clade	gene	site	alt
-A	clade		
-A	F	16	I
+A	F	16	A
 A	N	84	R
 A	F	540	S
 A.1	clade	A	
-A.1	F	16	A
+A.1	F	16	I
 A.1	F	122	A
 A.2	clade	A	
-A.2	F	540	A
+A.2	F	540	L
 A.2	F	547	F
 A.2	L	174	G
 A.2.1	clade	A.2	
@@ -27,12 +26,13 @@ A.3.1.1	F	540	A
 A.3.1.1	L	1725	E
 A.D	clade	A.3.1.1	
 A.D	L	598	H
-A.D	G	262	E
+A.D	G	261	Q
 A.D.1	clade	A.D	
 A.D.1	L	143	D
 A.D.1	L	179	S
+A.D.1	L	1725	G
 A.D.1	M	43	I
-A.D.1.1	clade	A.D.1	
+A.D.1	G	142	S
 A.D.1.2	clade	A.D.1	
 A.D.1.2	N	104	F
 A.D.1.2	M	25	R
@@ -43,16 +43,19 @@ A.D.2	clade	A.D
 A.D.2	L	598	Y
 A.D.2	G	134	I
 A.D.2.1	clade	A.D.2	
-A.D.2.1	L	1731	G
+A.D.2.1	P	69	A
 A.D.2.2	clade	A.D.2	
+A.D.2.2	L	1731	G
 A.D.2.2.1	clade	A.D.2.2	
 A.D.2.2.1	L	171	P
 A.D.2.2.1	L	256	R
 A.D.3	clade	A.D	
 A.D.3	F	12	I
 A.D.3	G	113	I
+A.D.3	L	1725	G
 A.D.3.1	clade	A.D.3	
 A.D.3.1	F	20	F
+A.D.3.1	F	276	N
 A.D.3.1	G	101	S
 A.D.4	clade	A.D	
 A.D.4	P	63	V
