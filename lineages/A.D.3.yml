@@ -5,6 +5,9 @@ defining_mutations:
 - locus: G
   position: 113
   state: I
+- locus: L
+  position: 1725
+  state: G
 name: A.D.3
 parent: A.D
 representatives:

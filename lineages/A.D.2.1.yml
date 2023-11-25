@@ -1,7 +1,7 @@
 defining_mutations:
-- locus: L
-  position: 1731
-  state: G
+- locus: P
+  position: 69
+  state: A
 name: A.D.2.1
 parent: A.D.2
 representatives:

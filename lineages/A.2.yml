@@ -1,7 +1,7 @@
 defining_mutations:
 - locus: F
   position: 540
-  state: A
+  state: L
 - locus: F
   position: 547
   state: F

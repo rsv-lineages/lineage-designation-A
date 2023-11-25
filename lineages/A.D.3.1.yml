@@ -2,6 +2,9 @@ defining_mutations:
 - locus: F
   position: 20
   state: F
+- locus: F
+  position: 276
+  state: N
 - locus: G
   position: 101
   state: S

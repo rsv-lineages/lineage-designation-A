@@ -3,8 +3,8 @@ defining_mutations:
   position: 598
   state: H
 - locus: G
-  position: 262
-  state: E
+  position: 261
+  state: Q
 name: A.D
 parent: A.3.1.1
 representatives:

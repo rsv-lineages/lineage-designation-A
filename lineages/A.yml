@@ -1,7 +1,7 @@
 defining_mutations:
 - locus: F
   position: 16
-  state: I
+  state: A
 - locus: N
   position: 84
   state: R
@@ -9,7 +9,7 @@ defining_mutations:
   position: 540
   state: S
 name: A
-parent: ''
+parent: none
 representatives:
 - MG642074
 - LC741417

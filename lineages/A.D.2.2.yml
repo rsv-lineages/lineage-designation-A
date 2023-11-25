@@ -1,4 +1,7 @@
-defining_mutations: []
+defining_mutations:
+- locus: L
+  position: 1731
+  state: G
 name: A.D.2.2
 parent: A.D.2
 representatives:
