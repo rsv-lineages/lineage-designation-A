@@ -1,9 +1,15 @@
-defining_mutations: []
+defining_mutations:
+- locus: L
+  position: 1725
+  state: G
+- locus: F
+  position: 103
+  state: T
 name: A.D.5.2
 parent: A.D.5
 representatives:
-- OK500258
-- OP890318
-- OP890321
-- OP890332
-unaliased_name: A.3.1.1.1.1.5.2
+- OK500260
+- OP890339
+- OQ171929
+- OP890338
+unaliased_name: A.3.1.1.1.5.2

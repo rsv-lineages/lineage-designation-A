@@ -1,0 +1,18 @@
+defining_mutations:
+- locus: L
+  position: 171
+  state: P
+- locus: L
+  position: 256
+  state: R
+name: A.D.2.2.1
+parent: A.D.2.2
+representatives:
+- ON237289
+- ON237294
+- ON237295
+- LR699737
+- MZ515851
+- MZ515902
+- MZ515575
+unaliased_name: A.3.1.1.1.2.2.1

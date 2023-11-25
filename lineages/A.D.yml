@@ -1,11 +1,19 @@
-defining_mutations: []
+defining_mutations:
+- locus: L
+  position: 598
+  state: H
+- locus: G
+  position: 262
+  state: E
 name: A.D
-parent: A.3.1.1.1
+parent: A.3.1.1
 representatives:
-- KY654515
+- MK167035
+- MH447951
+- OK649681
 - MF614946
-- MH181911
+- OK649682
 - KJ627735
-- KY654513
-- KY982516
-unaliased_name: A.3.1.1.1.1
+- MH447953
+- MH447954
+unaliased_name: A.3.1.1.1

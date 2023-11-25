@@ -1,6 +1,17 @@
-defining_mutations: []
+defining_mutations:
+- locus: F
+  position: 16
+  state: I
+- locus: N
+  position: 84
+  state: R
+- locus: F
+  position: 540
+  state: S
 name: A
 parent: ''
 representatives:
+- MG642074
+- LC741417
 - OK649668
 unaliased_name: A

@@ -1,8 +1,12 @@
-defining_mutations: []
+defining_mutations:
+- locus: L
+  position: 1731
+  state: G
 name: A.D.2.1
 parent: A.D.2
 representatives:
-- MZ515701
 - MZ515859
-- MZ515877
-unaliased_name: A.3.1.1.1.1.2.1
+- MZ516080
+- MZ515701
+- MZ515709
+unaliased_name: A.3.1.1.1.2.1

@@ -1,9 +1,15 @@
-defining_mutations: []
+defining_mutations:
+- locus: L
+  position: 598
+  state: Y
+- locus: G
+  position: 134
+  state: I
 name: A.D.2
 parent: A.D
 representatives:
-- MK749912
 - ON237272
+- MK749912
 - MK749913
 - MZ515901
-unaliased_name: A.3.1.1.1.1.2
+unaliased_name: A.3.1.1.1.2

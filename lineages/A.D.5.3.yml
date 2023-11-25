@@ -1,5 +1,14 @@
-defining_mutations: []
+defining_mutations:
+- locus: F
+  position: 15
+  state: F
+- locus: L
+  position: 179
+  state: A
 name: A.D.5.3
 parent: A.D.5
-representatives: []
-unaliased_name: A.3.1.1.1.1.5.3
+representatives:
+- OP320399
+- OP744450
+- OR601480
+unaliased_name: A.3.1.1.1.5.3

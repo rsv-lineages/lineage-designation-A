@@ -1,13 +1,21 @@
-defining_mutations: []
+defining_mutations:
+- locus: L
+  position: 143
+  state: D
+- locus: L
+  position: 179
+  state: S
+- locus: M
+  position: 43
+  state: I
 name: A.D.1
 parent: A.D
 representatives:
+- KY967363
 - MZ516058
-- ON237313
+- ON237343
+- ON237349
 - MZ221198
-- MZ515929
-- MZ515945
-- MZ515583
-- MZ515649
-- MZ515777
-unaliased_name: A.3.1.1.1.1.1
+- MZ515789
+- MZ516008
+unaliased_name: A.3.1.1.1.1

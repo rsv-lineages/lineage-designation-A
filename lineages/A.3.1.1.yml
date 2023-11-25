@@ -1,11 +1,20 @@
-defining_mutations: []
+defining_mutations:
+- locus: F
+  position: 276
+  state: S
+- locus: F
+  position: 540
+  state: A
+- locus: L
+  position: 1725
+  state: E
 name: A.3.1.1
 parent: A.3.1
 representatives:
-- OK649644
-- OK649645
-- OK649648
-- MK109776
-- MK109777
-- MK109787
+- OK649639
+- OK649640
+- OK649647
+- KY654507
+- KY654510
+- KY654508
 unaliased_name: A.3.1.1

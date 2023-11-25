@@ -1,12 +1,17 @@
-defining_mutations: []
+defining_mutations:
+- locus: N
+  position: 84
+  state: K
+- locus: L
+  position: 1764
+  state: R
 name: A.3
 parent: A
 representatives:
+- MG642063
 - MG642026
-- MG642056
+- MG642081
 - MG642035
+- MG642071
 - MG642034
-- MG642070
-- MG642033
-- MG642080
 unaliased_name: A.3

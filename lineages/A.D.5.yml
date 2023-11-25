@@ -1,11 +1,17 @@
-defining_mutations: []
+defining_mutations:
+- locus: L
+  position: 1723
+  state: G
+- locus: nuc
+  position: 4168
+  state: C
 name: A.D.5
 parent: A.D
 representatives:
 - ON237271
 - ON237320
 - MZ515782
-- MZ515616
+- MZ515825
+- MZ515592
 - MZ515884
-- OP320383
-unaliased_name: A.3.1.1.1.1.5
+unaliased_name: A.3.1.1.1.5

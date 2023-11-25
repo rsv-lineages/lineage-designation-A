@@ -1,10 +1,17 @@
-defining_mutations: []
+defining_mutations:
+- locus: N
+  position: 104
+  state: F
+- locus: M
+  position: 25
+  state: R
 name: A.D.1.2
 parent: A.D.1
 representatives:
-- OM857152
-- OM857155
-- OM857180
-- OM857140
+- OM857171
+- OM857156
+- OM857174
 - OM857177
-unaliased_name: A.3.1.1.1.1.1.2
+- OM857189
+- OM857188
+unaliased_name: A.3.1.1.1.1.2

@@ -1,13 +1,17 @@
-defining_mutations: []
+defining_mutations:
+- locus: F
+  position: 12
+  state: I
+- locus: G
+  position: 113
+  state: I
 name: A.D.3
 parent: A.D
 representatives:
-- MZ515731
-- MZ516110
-- MN306029
-- MT422270
+- MN306017
+- MZ515647
+- MZ516063
+- MN306045
 - MZ515619
-- MZ151853
-- MZ515679
-- MZ515693
-unaliased_name: A.3.1.1.1.1.3
+- MZ515668
+unaliased_name: A.3.1.1.1.3

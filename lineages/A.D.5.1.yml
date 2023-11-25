@@ -1,6 +1,14 @@
-defining_mutations: []
+defining_mutations:
+- locus: N
+  position: 216
+  state: H
+- locus: G
+  position: 118
+  state: I
 name: A.D.5.1
 parent: A.D.5
 representatives:
+- MZ515567
+- MZ516012
 - MZ515749
-unaliased_name: A.3.1.1.1.1.5.1
+unaliased_name: A.3.1.1.1.5.1

@@ -1,11 +1,18 @@
-defining_mutations: []
+defining_mutations:
+- locus: F
+  position: 125
+  state: N
+- locus: L
+  position: 148
+  state: N
 name: A.2.1
 parent: A.2
 representatives:
-- KJ627673
-- KJ627705
-- KJ627710
-- KJ627657
+- KJ627676
+- KJ627708
+- KJ627672
+- KJ627652
+- KJ627670
 - KJ627671
-- KJ627733
+- KJ627663
 unaliased_name: A.2.1
