@@ -1,0 +1,27 @@
+defining_mutations:
+- locus: F
+  position: 3
+  state: S
+- locus: G
+  position: 122
+  state: V
+- locus: G
+  position: 273
+  state: H
+- locus: L
+  position: 1735
+  state: D
+- locus: L
+  position: 1934
+  state: I
+name: A.D.1.4
+parent: A.D.1
+representatives:
+- OQ024155
+- OR143137
+- OY757595
+- PP352344
+- PP681283
+- PP770472
+
+unaliased_name: A.3.1.1.1.1.4
