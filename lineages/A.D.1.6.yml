@@ -3,8 +3,8 @@ defining_mutations:
   position: 106
   state: E
 - locus: L
-  position: 1225
-  state: I
+  position: 1724
+  state: D
 - locus: L
   position: 1690
   state: Y
