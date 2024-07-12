@@ -1,0 +1,15 @@
+defining_mutations:
+- locus: F
+  position: 127
+  state: I
+- locus: M2-1
+  position: 180
+  state: A
+name: A.D.1.5
+parent: A.D.1
+representatives:
+- OQ171906
+- PP352349
+- OR883018
+- OR143171
+unaliased_name: A.3.1.1.1.1.5
