@@ -1,0 +1,20 @@
+defining_mutations:
+- locus: M2-2
+  position: 44
+  state: L
+- locus: F
+  position: 20
+  state: F
+- locus: M
+  position: 43
+  state: I
+- locus: N
+  position: 129
+  state: Y
+name: A.D.3.5
+parent: A.D.3
+representatives:
+ - OR795475
+ - PP781414
+ - PP709453
+unaliased_name: A.3.1.1.1.3.5

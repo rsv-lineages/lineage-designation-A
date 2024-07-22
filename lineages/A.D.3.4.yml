@@ -1,0 +1,20 @@
+defining_mutations:
+- locus: F
+  position: 114
+  state: Y
+- locus: G
+  position: 204
+  state: R
+- locus: L
+  position: 559
+  state: S
+- locus: L
+  position: 1314
+  state: M
+name: A.D.3.4
+parent: A.D.3
+representatives:
+ - OQ261753
+ - OQ024115
+ - OR143204
+unaliased_name: A.3.1.1.1.3.4

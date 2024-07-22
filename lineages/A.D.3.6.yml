@@ -1,0 +1,20 @@
+defining_mutations:
+- locus: M2-1
+  position: 20
+  state: K
+- locus: G
+  position: 151
+  state: H
+- locus: M2-2
+  position: 23
+  state: A
+- locus: NS2
+  position: 35
+  state: V
+name: A.D.3.6
+parent: A.D.3
+representatives:
+ - PP237786
+ - PP401817
+ - PP504647
+unaliased_name: A.3.1.1.1.3.6
