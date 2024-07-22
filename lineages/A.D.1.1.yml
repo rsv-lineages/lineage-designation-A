@@ -1,0 +1,20 @@
+defining_mutations:
+- locus: L
+  position: 124
+  state: I
+- locus: L
+  position: 234
+  state: V
+- locus: L
+  position: 970
+  state: S
+- locus: G
+  position: 191
+  state: S
+name: A.D.1.1
+parent: A.D.1
+representatives:
+- PP495899
+- OR287843
+- PP495919
+unaliased_name: A.3.1.1.1.1.1
