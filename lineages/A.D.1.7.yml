@@ -1,0 +1,17 @@
+defining_mutations:
+- locus: F
+  position: 57
+  state: V
+- locus: F
+  position: 111
+  state: I
+- locus: F
+  position: 122
+  state: A
+name: A.D.1.7
+parent: A.D.1
+representatives:
+- OQ171911
+- OR872616
+- PP203260
+unaliased_name: A.3.1.1.1.1.7
