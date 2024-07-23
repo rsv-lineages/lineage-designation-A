@@ -1,0 +1,17 @@
+defining_mutations:
+- locus: L
+  position: 189
+  state: I
+- locus: L
+  position: 1722
+  state: E
+- locus: M
+  position: 157
+  state: R
+name: A.D.5.4
+parent: A.D.5
+representatives:
+- PP135013
+- PP237781
+- PP781380
+unaliased_name: A.3.1.1.1.5.4
