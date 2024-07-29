@@ -5,9 +5,9 @@ defining_mutations:
 - locus: F
   position: 540
   state: A
-- locus: L
-  position: 1725
-  state: E
+- locus: G
+  position: 208
+  state: L
 name: A.3.1.1
 parent: A.3.1
 representatives:

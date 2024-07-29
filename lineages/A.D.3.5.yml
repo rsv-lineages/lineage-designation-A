@@ -10,7 +10,7 @@ defining_mutations:
   state: I
 - locus: N
   position: 129
-  state: Y
+  state: V
 name: A.D.3.5
 parent: A.D.3
 representatives:

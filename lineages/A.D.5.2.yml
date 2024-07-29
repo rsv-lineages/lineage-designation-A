@@ -1,7 +1,7 @@
 defining_mutations:
-- locus: L
-  position: 1725
-  state: G
+- locus: M2-2
+  position: 26
+  state: Y
 - locus: F
   position: 103
   state: T
