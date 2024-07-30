@@ -5,10 +5,13 @@ defining_mutations:
 - locus: L
   position: 179
   state: A
+- locus: M2-2
+  position: 64
+  state: E
 name: A.D.5.3
 parent: A.D.5
 representatives:
 - OP320399
-- OP744450
+- PP495913
 - OR601480
 unaliased_name: A.3.1.1.1.5.3

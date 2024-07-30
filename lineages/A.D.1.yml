@@ -5,9 +5,6 @@ defining_mutations:
 - locus: L
   position: 179
   state: S
-- locus: L
-  position: 1725
-  state: G
 - locus: M
   position: 43
   state: I

@@ -5,9 +5,6 @@ defining_mutations:
 - locus: F
   position: 276
   state: N
-- locus: M
-  position: 96
-  state: I
 - locus: NS1
   position: 71
   state: V

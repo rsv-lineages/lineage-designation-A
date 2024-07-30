@@ -1,0 +1,17 @@
+defining_mutations:
+- locus: F
+  position: 13
+  state: A
+- locus: L
+  position: 1800
+  state: L
+- locus: L
+  position: 2025
+  state: S
+name: A.D.1.8
+parent: A.D.1
+representatives:
+- PP973760
+- PP352324
+- OR287988
+unaliased_name: A.3.1.1.1.1.8
