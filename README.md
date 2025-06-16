@@ -1,4 +1,7 @@
 # Lineage designations for RSV-A
+
+**2025-07-01**: Upcoming automated download for the review of emerging lineages, based on genome sequences available as of that date from the International Nucleotide Sequence Database Collaboration (NCBI GenBank, EBI, and DDBJ) and the Pathoplexus databases.
+
 This repository contains the definitions of lineages for RSV-A following the proposal put forward in [**Standardized Phylogenetic Classification of Human Respiratory Syncytial Virus Below the Subgroup Level**](https://wwwnc.cdc.gov/eid/article/30/8/24-0209_article) by Goya et al and the RSV Genotyping Consensus Consortium.
 
 Please refer to the preprint for an in-depth discussion of the lineages and nomenclature. You can assign your own sequence data to the different lineages using [Nextclade](https://clades.nextstrain.org) or [UShER](https://genome.ucsc.edu/cgi-bin/hgPhyloPlace).
