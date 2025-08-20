@@ -131,6 +131,25 @@
    - [PP495919](https://www.ncbi.nlm.nih.gov/nuccore/PP495919)
  * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:A.D.1.1)
 
+## A.D.1.10
+ * parent: [A.D.1](#AD1)
+ * defining mutations or substitutions: SH:38S, L:2163N, L:1789F, F:377N, G:116V, G:272D, G:297H, L:1748S
+ * representative sequences:
+   - [OZ280498](https://www.ncbi.nlm.nih.gov/nuccore/OZ280498)
+   - [PQ762941](https://www.ncbi.nlm.nih.gov/nuccore/PQ762941)
+   - [OZ280232](https://www.ncbi.nlm.nih.gov/nuccore/OZ280232)
+ * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:A.D.1.10)
+
+## A.D.1.11
+ * parent: [A.D.1](#AD1)
+ * defining mutations or substitutions: SH:38S, L:2163N, L:1789F, M:25R, G:225A, G:295V, G:314P, G:276L, F:518V
+ * representative sequences:
+   - [OR162268](https://www.ncbi.nlm.nih.gov/nuccore/OR162268)
+   - [PQ349026](https://www.ncbi.nlm.nih.gov/nuccore/PQ349026)
+   - [OZ262247](https://www.ncbi.nlm.nih.gov/nuccore/OZ262247)
+   - [OZ262263](https://www.ncbi.nlm.nih.gov/nuccore/OZ262263)
+ * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:A.D.1.11)
+
 ## A.D.1.2
  * parent: [A.D.1](#AD1)
  * defining mutations or substitutions: N:104F, M:25R
@@ -204,6 +223,15 @@
    - [OR287988](https://www.ncbi.nlm.nih.gov/nuccore/OR287988)
  * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:A.D.1.8)
 
+## A.D.1.9
+ * parent: [A.D.1](#AD1)
+ * defining mutations or substitutions: SH:38S, L:2163N, L:1789F, F:377N, G:222L
+ * representative sequences:
+   - [PV535391](https://www.ncbi.nlm.nih.gov/nuccore/PV535391)
+   - [OZ277680](https://www.ncbi.nlm.nih.gov/nuccore/OZ277680)
+   - [OR162252](https://www.ncbi.nlm.nih.gov/nuccore/OR162252)
+ * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:A.D.1.9)
+
 ## A.D.2
  * parent: [A.D](#AD)
  * defining mutations or substitutions: L:598Y, G:134I
@@ -270,6 +298,33 @@
    - [OR522470](https://www.ncbi.nlm.nih.gov/nuccore/OR522470)
  * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:A.D.3.1)
 
+## A.D.3.10
+ * parent: [A.D.3](#AD3)
+ * defining mutations or substitutions: G:210A, SH:49A, G:274P, L:1550S, G:318K, F:22L
+ * representative sequences:
+   - [OZ279503](https://www.ncbi.nlm.nih.gov/nuccore/OZ279503)
+   - [OZ280214](https://www.ncbi.nlm.nih.gov/nuccore/OZ280214)
+   - [PP781410](https://www.ncbi.nlm.nih.gov/nuccore/PP781410)
+ * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:A.D.3.10)
+
+## A.D.3.11
+ * parent: [A.D.3](#AD3)
+ * defining mutations or substitutions: G:245A, M2-2:64G, N:84R, L:37D, F:23T, F:123R, L:2069A
+ * representative sequences:
+   - [OZ262277](https://www.ncbi.nlm.nih.gov/nuccore/OZ262277)
+   - [PV535382](https://www.ncbi.nlm.nih.gov/nuccore/PV535382)
+   - [PV246650](https://www.ncbi.nlm.nih.gov/nuccore/PV246650)
+ * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:A.D.3.11)
+
+## A.D.3.12
+ * parent: [A.D.3](#AD3)
+ * defining mutations or substitutions: G:230T, F:276N, P:72N, G:299N, L:1190D
+ * representative sequences:
+   - [OZ262330](https://www.ncbi.nlm.nih.gov/nuccore/OZ262330)
+   - [OZ279736](https://www.ncbi.nlm.nih.gov/nuccore/OZ279736)
+   - [LC862018](https://www.ncbi.nlm.nih.gov/nuccore/LC862018)
+ * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:A.D.3.12)
+
 ## A.D.3.2
  * parent: [A.D.3](#AD3)
  * defining mutations or substitutions: L:1653V, F:276N, NS1:71V
@@ -314,6 +369,34 @@
    - [PP401817](https://www.ncbi.nlm.nih.gov/nuccore/PP401817)
    - [PP504647](https://www.ncbi.nlm.nih.gov/nuccore/PP504647)
  * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:A.D.3.6)
+
+## A.D.3.7
+ * parent: [A.D.3](#AD3)
+ * defining mutations or substitutions: NS1:2D, L:1644E, G:67N, G:106R, G:221R
+ * representative sequences:
+   - [LC862029](https://www.ncbi.nlm.nih.gov/nuccore/LC862029)
+   - [OZ279430](https://www.ncbi.nlm.nih.gov/nuccore/OZ279430)
+   - [OZ279094](https://www.ncbi.nlm.nih.gov/nuccore/OZ279094)
+ * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:A.D.3.7)
+
+## A.D.3.8
+ * parent: [A.D.3](#AD3)
+ * defining mutations or substitutions: G:210A, SH:49A, G:274P, P:215H, M:159T, G:261R
+ * representative sequences:
+   - [PQ762826](https://www.ncbi.nlm.nih.gov/nuccore/PQ762826)
+   - [PQ762983](https://www.ncbi.nlm.nih.gov/nuccore/PQ762983)
+   - [OZ279708](https://www.ncbi.nlm.nih.gov/nuccore/OZ279708)
+   - [OZ280181](https://www.ncbi.nlm.nih.gov/nuccore/OZ280181)
+ * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:A.D.3.8)
+
+## A.D.3.9
+ * parent: [A.D.3](#AD3)
+ * defining mutations or substitutions: G:210A, SH:49A, G:274P, G:141T, G:245I, G:253R
+ * representative sequences:
+   - [OZ280361](https://www.ncbi.nlm.nih.gov/nuccore/OZ280361)
+   - [OZ280549](https://www.ncbi.nlm.nih.gov/nuccore/OZ280549)
+   - [PQ788218](https://www.ncbi.nlm.nih.gov/nuccore/PQ788218)
+ * [View in Nextstrain](https://nextstrain.org/rsv/a/genome?branchLabel=clade&c=clade&label=clade:A.D.3.9)
 
 ## A.D.4
  * parent: [A.D](#AD)
