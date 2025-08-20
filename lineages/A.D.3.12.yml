@@ -1,0 +1,23 @@
+defining_mutations:
+- locus: G
+  position: 230
+  state: T
+- locus: F
+  position: 276
+  state: N
+- locus: P
+  position: 72
+  state: N
+- locus: G
+  position: 299
+  state: N
+- locus: L
+  position: 1190
+  state: D
+name: A.D.3.12
+parent: A.D.3
+representatives:
+ - OZ262330
+ - OZ279736
+ - LC862018
+unaliased_name: A.3.1.1.1.3.12

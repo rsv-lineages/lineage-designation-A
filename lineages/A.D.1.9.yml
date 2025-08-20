@@ -1,0 +1,23 @@
+defining_mutations:
+- locus: SH
+  position: 38
+  state: S
+- locus: L
+  position: 2163
+  state: N
+- locus: L
+  position: 1789
+  state: F
+- locus: F
+  position: 377
+  state: N
+- locus: G
+  position: 222
+  state: L
+name: A.D.1.9
+parent: A.D.1
+representatives:
+- PV535391
+- OZ277680
+- OR162252
+unaliased_name: A.3.1.1.1.1.9
