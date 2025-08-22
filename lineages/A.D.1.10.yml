@@ -15,11 +15,11 @@ defining_mutations:
   position: 116
   state: V
 - locus: G
-  position: 272
-  state: D
-- locus: G
-  position: 297
-  state: H
+  position: 234
+  state: L
+- locus: L
+  position: 114
+  state: K
 - locus: L
   position: 1748
   state: S
