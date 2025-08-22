@@ -133,7 +133,7 @@
 
 ## A.D.1.10
  * parent: [A.D.1](#AD1)
- * defining mutations or substitutions: SH:38S, L:2163N, L:1789F, F:377N, G:116V, G:272D, G:297H, L:1748S
+ * defining mutations or substitutions: SH:38S, L:2163N, L:1789F, F:377N, G:116V, G:234L, L:114K, L:1748S
  * representative sequences:
    - [OZ280498](https://www.ncbi.nlm.nih.gov/nuccore/OZ280498)
    - [PQ762941](https://www.ncbi.nlm.nih.gov/nuccore/PQ762941)
@@ -372,7 +372,7 @@
 
 ## A.D.3.7
  * parent: [A.D.3](#AD3)
- * defining mutations or substitutions: NS1:2D, L:1644E, G:67N, G:106R, G:221R
+ * defining mutations or substitutions: NS1:2D, L:1644E, L:2117K, G:67N, G:106R, G:221R
  * representative sequences:
    - [LC862029](https://www.ncbi.nlm.nih.gov/nuccore/LC862029)
    - [OZ279430](https://www.ncbi.nlm.nih.gov/nuccore/OZ279430)

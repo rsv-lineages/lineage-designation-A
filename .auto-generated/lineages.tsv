@@ -37,6 +37,25 @@ A.D.1.1	L	124	I
 A.D.1.1	L	234	V
 A.D.1.1	L	970	S
 A.D.1.1	G	191	S
+A.D.1.10	clade	A.D.1	
+A.D.1.10	SH	38	S
+A.D.1.10	L	2163	N
+A.D.1.10	L	1789	F
+A.D.1.10	F	377	N
+A.D.1.10	G	116	V
+A.D.1.10	G	234	L
+A.D.1.10	L	114	K
+A.D.1.10	L	1748	S
+A.D.1.11	clade	A.D.1	
+A.D.1.11	SH	38	S
+A.D.1.11	L	2163	N
+A.D.1.11	L	1789	F
+A.D.1.11	M	25	R
+A.D.1.11	G	225	A
+A.D.1.11	G	295	V
+A.D.1.11	G	314	P
+A.D.1.11	G	276	L
+A.D.1.11	F	518	V
 A.D.1.2	clade	A.D.1	
 A.D.1.2	N	104	F
 A.D.1.2	M	25	R
@@ -64,6 +83,12 @@ A.D.1.8	clade	A.D.1
 A.D.1.8	F	13	A
 A.D.1.8	L	1800	L
 A.D.1.8	L	2025	S
+A.D.1.9	clade	A.D.1	
+A.D.1.9	SH	38	S
+A.D.1.9	L	2163	N
+A.D.1.9	L	1789	F
+A.D.1.9	F	377	N
+A.D.1.9	G	222	L
 A.D.2	clade	A.D	
 A.D.2	L	598	Y
 A.D.2	G	134	I
@@ -82,6 +107,27 @@ A.D.3.1	clade	A.D.3
 A.D.3.1	F	20	F
 A.D.3.1	F	276	N
 A.D.3.1	G	101	S
+A.D.3.10	clade	A.D.3	
+A.D.3.10	G	210	A
+A.D.3.10	SH	49	A
+A.D.3.10	G	274	P
+A.D.3.10	L	1550	S
+A.D.3.10	G	318	K
+A.D.3.10	F	22	L
+A.D.3.11	clade	A.D.3	
+A.D.3.11	G	245	A
+A.D.3.11	M2-2	64	G
+A.D.3.11	N	84	R
+A.D.3.11	L	37	D
+A.D.3.11	F	23	T
+A.D.3.11	F	123	R
+A.D.3.11	L	2069	A
+A.D.3.12	clade	A.D.3	
+A.D.3.12	G	230	T
+A.D.3.12	F	276	N
+A.D.3.12	P	72	N
+A.D.3.12	G	299	N
+A.D.3.12	L	1190	D
 A.D.3.2	clade	A.D.3	
 A.D.3.2	L	1653	V
 A.D.3.2	F	276	N
@@ -105,6 +151,27 @@ A.D.3.6	M2-1	20	K
 A.D.3.6	G	151	H
 A.D.3.6	M2-2	23	A
 A.D.3.6	NS2	35	V
+A.D.3.7	clade	A.D.3	
+A.D.3.7	NS1	2	D
+A.D.3.7	L	1644	E
+A.D.3.7	L	2117	K
+A.D.3.7	G	67	N
+A.D.3.7	G	106	R
+A.D.3.7	G	221	R
+A.D.3.8	clade	A.D.3	
+A.D.3.8	G	210	A
+A.D.3.8	SH	49	A
+A.D.3.8	G	274	P
+A.D.3.8	P	215	H
+A.D.3.8	M	159	T
+A.D.3.8	G	261	R
+A.D.3.9	clade	A.D.3	
+A.D.3.9	G	210	A
+A.D.3.9	SH	49	A
+A.D.3.9	G	274	P
+A.D.3.9	G	141	T
+A.D.3.9	G	245	I
+A.D.3.9	G	253	R
 A.D.4	clade	A.D	
 A.D.4	P	63	V
 A.D.4	M	47	Q
