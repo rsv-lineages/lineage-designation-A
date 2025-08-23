@@ -39,6 +39,8 @@ Once a new yaml file got added and merged into master, run the helper scripts to
 ```shell
 python ../helper-scripts/generate_markdown_summary.py --input-dir lineages --lineage A
 python ../helper-scripts/construct_tsv.py --input-dir lineages --output-tsv .auto-generated/lineages.tsv
+git add .auto-generated/lineages.tsv .auto-generated/clades.md
+git commit -m "update auto-generated files"
 ```
 To add these to the repo, run
 ```

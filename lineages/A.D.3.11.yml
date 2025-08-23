@@ -1,0 +1,29 @@
+defining_mutations:
+- locus: G
+  position: 245
+  state: A
+- locus: M2-2
+  position: 64
+  state: G
+- locus: N
+  position: 84
+  state: R
+- locus: L
+  position: 37
+  state: D
+- locus: F
+  position: 23
+  state: T
+- locus: F
+  position: 123
+  state: R
+- locus: L
+  position: 2069
+  state: A
+name: A.D.3.11
+parent: A.D.3
+representatives:
+ - OZ262277
+ - PV535382
+ - PV246650
+unaliased_name: A.3.1.1.1.3.11

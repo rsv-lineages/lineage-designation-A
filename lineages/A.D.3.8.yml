@@ -1,0 +1,27 @@
+defining_mutations:
+- locus: G
+  position: 210
+  state: A
+- locus: SH
+  position: 49
+  state: A
+- locus: G
+  position: 274
+  state: P
+- locus: P
+  position: 215
+  state: H
+- locus: M
+  position: 159
+  state: T
+- locus: G
+  position: 261
+  state: R
+name: A.D.3.8
+parent: A.D.3
+representatives:
+ - PQ762826
+ - PQ762983
+ - OZ279708
+ - OZ280181
+unaliased_name: A.3.1.1.1.3.8
