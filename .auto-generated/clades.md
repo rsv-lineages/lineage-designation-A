@@ -309,7 +309,7 @@
 
 ## A.D.3.11
  * parent: [A.D.3](#AD3)
- * defining mutations or substitutions: G:245A, M2-2:64G, N:84R, L:37D, F:23T, F:123R, L:2069A
+ * defining mutations or substitutions: G:245A, M2-2:62G, N:84R, L:37D, F:23T, F:123R, L:2069A
  * representative sequences:
    - [OZ262277](https://www.ncbi.nlm.nih.gov/nuccore/OZ262277)
    - [PV535382](https://www.ncbi.nlm.nih.gov/nuccore/PV535382)
@@ -336,7 +336,7 @@
 
 ## A.D.3.3
  * parent: [A.D.3](#AD3)
- * defining mutations or substitutions: M2-2:47Y, G:204N, NS1:2D
+ * defining mutations or substitutions: M2-2:45Y, G:204N, NS1:2D
  * representative sequences:
    - [PP748752](https://www.ncbi.nlm.nih.gov/nuccore/PP748752)
    - [PP530269](https://www.ncbi.nlm.nih.gov/nuccore/PP530269)
@@ -354,7 +354,7 @@
 
 ## A.D.3.5
  * parent: [A.D.3](#AD3)
- * defining mutations or substitutions: M2-2:44L, F:20F, M:43I, N:129V
+ * defining mutations or substitutions: M2-2:42L, F:20F, M:43I, N:129V
  * representative sequences:
    - [OR795475](https://www.ncbi.nlm.nih.gov/nuccore/OR795475)
    - [PP781414](https://www.ncbi.nlm.nih.gov/nuccore/PP781414)
@@ -363,7 +363,7 @@
 
 ## A.D.3.6
  * parent: [A.D.3](#AD3)
- * defining mutations or substitutions: M2-1:20K, G:151H, M2-2:23A, NS2:35V
+ * defining mutations or substitutions: M2-1:20K, G:151H, M2-2:21A, NS2:35V
  * representative sequences:
    - [PP237786](https://www.ncbi.nlm.nih.gov/nuccore/PP237786)
    - [PP401817](https://www.ncbi.nlm.nih.gov/nuccore/PP401817)
@@ -439,7 +439,7 @@
 
 ## A.D.5.2
  * parent: [A.D.5](#AD5)
- * defining mutations or substitutions: M2-2:26Y, F:103T
+ * defining mutations or substitutions: M2-2:24Y, F:103T
  * representative sequences:
    - [OK500260](https://www.ncbi.nlm.nih.gov/nuccore/OK500260)
    - [OP890339](https://www.ncbi.nlm.nih.gov/nuccore/OP890339)
@@ -449,7 +449,7 @@
 
 ## A.D.5.3
  * parent: [A.D.5](#AD5)
- * defining mutations or substitutions: F:15F, L:179A, M2-2:64E
+ * defining mutations or substitutions: F:15F, L:179A, M2-2:62E
  * representative sequences:
    - [OP320399](https://www.ncbi.nlm.nih.gov/nuccore/OP320399)
    - [PP495913](https://www.ncbi.nlm.nih.gov/nuccore/PP495913)
