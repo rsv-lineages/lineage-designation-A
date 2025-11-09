@@ -1,6 +1,6 @@
 defining_mutations:
 - locus: M2-2
-  position: 47
+  position: 45
   state: Y
 - locus: G
   position: 204

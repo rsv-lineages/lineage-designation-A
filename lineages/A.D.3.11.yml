@@ -3,7 +3,7 @@ defining_mutations:
   position: 245
   state: A
 - locus: M2-2
-  position: 64
+  position: 62
   state: G
 - locus: N
   position: 84

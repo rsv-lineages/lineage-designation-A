@@ -1,6 +1,6 @@
 defining_mutations:
 - locus: M2-2
-  position: 26
+  position: 24
   state: Y
 - locus: F
   position: 103
